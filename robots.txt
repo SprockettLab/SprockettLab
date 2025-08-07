@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SprockettLab.github.io/al-folio/sitemap.xml
+Sitemap: https://sprockettlab.github.io/al-folio/sitemap.xml
