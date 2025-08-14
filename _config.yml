@@ -4,7 +4,7 @@
 
 title: The Sprockett Lab # the website title (if blank, full name will be used instead)
 first_name: Daniel
-middle_name: 
+middle_name:
 last_name: Sprockett
 contact_note: >
   Ecology | Evolution | Health
@@ -84,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Goings On. # blog_name will be displayed in your blog page
-blog_description: News from the Sprockett Lab. 
+blog_description: News from the Sprockett Lab.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
